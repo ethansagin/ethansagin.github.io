@@ -1,11 +1,11 @@
 # Site settings
-author: Ethan Sagin
-title: 
+author: Ethan Andrew Sagin
+title: Java(script)-Jive with Jellybean
 header-img: img/home-bg.png
 email: ethansagin@gmail.com
-copyright_name: Ethan Sagin
+copyright_name: Ethan Andrew Sagin
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Flatiron Bootcamp Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ethansagin
