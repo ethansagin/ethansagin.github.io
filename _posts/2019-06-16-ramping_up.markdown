@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Ramping Up"
-date:       2019-06-16 20:04:07 +0000
+date:       2019-06-16 16:04:08 -0400
 permalink:  ramping_up
 ---
 
